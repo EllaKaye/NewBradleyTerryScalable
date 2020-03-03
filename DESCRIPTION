@@ -11,3 +11,5 @@ Imports: Rcpp (>= 1.0.3)
 LinkingTo: Rcpp, RcppArmadillo
 URL: https://github.com/EllaKaye/NewBradleyTerryScalable
 BugReports: https://github.com/EllaKaye/NewBradleyTerryScalable/issues
+RoxygenNote: 7.0.2
+Encoding: UTF-8
